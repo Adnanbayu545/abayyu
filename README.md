@@ -15,8 +15,8 @@
 
 ## Links
 
-- Website: [webfernanda.my.id](http://abayyu.my.id)
-- Github : [www.github.com/fernandaaryaputra](https://github.com/Adnanbayu545)
+- Website: [abayyu.my.id](http://abayyu.my.id)
+- Github : [www.github.com/Adnanbayu545](https://github.com/Adnanbayu545)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
