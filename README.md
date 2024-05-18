@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan Bayu Setiawan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [webfernanda.my.id](https://abayyu.my.id)
+- 👨‍💻 All of my projects are available at [abayyu.my.id](https://abayyu.my.id)
 
 - ⚡ Fun fact **I Think I FAST**
 
